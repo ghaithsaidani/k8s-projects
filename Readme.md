@@ -48,7 +48,7 @@ Projects are organized by difficulty level and designed to progressively build r
 
 Focus: Core Kubernetes workload deployment, networking, storage, and application architecture.
 
-### ✅ [Project 01 - Multi-Tier Todo App](./01%20-%20Beginner%20Level/project-01.md)
+### ✅ [Project 01 - Multi-Tier Todo App](./01%20-%20Beginner%20Level/Project-01.md)
 
 Deploy and productionize a complete 3-tier application:
 
@@ -70,13 +70,13 @@ Learn how real applications are structured inside Kubernetes.
 
 ---
 
-### 🚧 [Project 02 - Coming Soon](./01%20-%20Beginner%20Level/project-02.md)
+### 🚧 [Project 02 - Coming Soon](./01%20-%20Beginner%20Level/Project-02.md)
 
 Stay tuned.
 
 ---
 
-### 🚧 [Project 03 - Coming Soon](./01%20-%20Beginner%20Level/project-03.md)
+### 🚧 [Project 03 - Coming Soon](./01%20-%20Beginner%20Level/Project-03.md)
 
 Stay tuned.
 
@@ -86,19 +86,19 @@ Stay tuned.
 
 Focus: Scaling, resiliency, observability, production architecture patterns.
 
-### 🚧 [Project 01 - Coming Soon](./02%20-%20Intermediate%20Level/project-01.md)
+### 🚧 [Project 01 - Coming Soon](./02%20-%20Intermediate%20Level/Project-01.md)
 
 Stay tuned.
 
 ---
 
-### 🚧 [Project 02 - Coming Soon](./02%20-%20Intermediate%20Level/project-02.md)
+### 🚧 [Project 02 - Coming Soon](./02%20-%20Intermediate%20Level/Project-02.md)
 
 Stay tuned.
 
 ---
 
-### 🚧 [Project 03 - Coming Soon](./02%20-%20Intermediate%20Level/project-03.md)
+### 🚧 [Project 03 - Coming Soon](./02%20-%20Intermediate%20Level/Project-03.md)
 
 Stay tuned.
 
@@ -108,19 +108,19 @@ Stay tuned.
 
 Focus: Platform engineering, GitOps, multi-environment systems, production-grade Kubernetes.
 
-### 🚧 [Project 01 - Coming Soon](./03%20-%20Advanced%20Level/project-01.md)
+### 🚧 [Project 01 - Coming Soon](./03%20-%20Advanced%20Level/Project-01.md)
 
 Stay tuned.
 
 ---
 
-### 🚧 [Project 02 - Coming Soon](./03%20-%20Advanced%20Level/project-02.md)
+### 🚧 [Project 02 - Coming Soon](./03%20-%20Advanced%20Level/Project-02.md)
 
 Stay tuned.
 
 ---
 
-### 🚧 [Project 03 - Coming Soon](./03%20-%20Advanced%20Level/project-03.md)
+### 🚧 [Project 03 - Coming Soon](./03%20-%20Advanced%20Level/Project-03.md)
 
 Stay tuned.
 ---
