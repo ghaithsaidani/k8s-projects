@@ -64,7 +64,7 @@ Deploy and productionize a complete 3-tier application:
 
 Starter workload:
 
-[workloads/3-tier-app](./workloads/3-tier-app)
+[3-tier-app](./workloads/3-tier-app)
 
 Learn how real applications are structured inside Kubernetes.
 
