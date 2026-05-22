@@ -16,14 +16,39 @@ You are given a working 3-tier Todo app (React + Vite frontend, FastAPI backend,
 No hand-holding - figure out the manifests, the workload types, the networking, and the storage yourself. Each task below has a hidden solution you can reveal only **after** you've tried.
 
 ---
-
 ## 📦 Starting Point
 
+The starter project for this challenge is already provided in the repository:
+
+```bash
+../workloads/3-tier-app
 ```
+
+Before doing anything else, move into it:
+
+```bash
+cd ../workloads/3-tier-app
+```
+
+This is the intentionally incomplete version of the application.
+
+It currently:
+
+- Runs locally with `docker-compose` for PostgreSQL
+- Runs the frontend with the Vite dev server
+- Runs the backend with FastAPI locally
+- Is **not containerized for Kubernetes**
+- Has **no Kubernetes manifests**
+
+Your mission is to take this raw application and make it production-ready on Kubernetes from scratch.
+
+Project structure:
+
+```txt
 .
 ├── docker-compose.yml
-├── backend/      # FastAPI + SQLAlchemy (not containerized yet)
-└── frontend/     # React + Vite (not containerized yet)
+├── backend/
+└── frontend/
 ```
 
 ---
